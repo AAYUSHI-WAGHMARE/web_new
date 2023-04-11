@@ -1,0 +1,104 @@
+body {
+	font-family: cursive, sans-serif;
+	margin: 0;
+	padding: 0;
+  }
+  /*.bg
+  {
+    background-image: "C:\Users\AAYUSHI\Downloads\photo-1616400619175-5beda3a17896.jpg";
+    
+  }*/
+
+  
+  header {
+	background-color: #12343b;
+	color: #ebf2f3;
+	height: 60px;
+	padding: 20px;
+  }
+  
+  nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  }
+  
+  nav li {
+	display: inline-block;
+	margin-right: 20px;
+  }
+  
+  nav a {
+	color: #fff;
+	text-decoration: none;
+  }
+  
+  main {
+    
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+    text-decoration: none;
+  }
+  h1{
+    color: #213840;
+    text-align: center;
+  }
+  
+  section {
+    color: #222c41;
+    text-decoration: none;
+	margin-bottom: 40px;
+  }
+  
+  h2 {
+	color: #fffafa;
+    text-decoration: none;
+  }
+  
+  footer {
+	background-color: #c89666;
+	color: #333;
+	height: 40px;
+	padding: 10px;
+	text-align: center;
+  }
+ 
+
+  button{
+        background-color: #1c4d6e;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        padding: 10px 40px;
+        margin-top: 10px;
+        cursor: pointer;
+        transition: background-color 0.2s ease-in-out
+  }
+  .co{
+    color: white;
+  }
+  .div111{
+    
+    background-color: antiquewhite;
+    box-shadow: 0px 0px 10px #999;
+    position:relative;
+    padding: 50px 100px;
+    left: 0px;
+    right: 0px;
+
+  }
+  .oneone > * {
+    display:inline-block;
+    vertical-align:middle;
+  }
+  .one {
+    width:80px;
+    height:80px;
+    display: inline;
+  }
+  .two {
+    width:80px;
+    height:80px;
+    display: inline;
+  }
